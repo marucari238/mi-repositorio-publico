@@ -1,0 +1,6 @@
+Pyhton
+Java
+JavaScript
+SQL
+HTML
+CSS
